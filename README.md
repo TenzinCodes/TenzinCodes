@@ -1,7 +1,7 @@
 <h1 align="center">👋👋👋👋 Tenzin here,</h1>
 <h3 align="center">A Minnesota based software developer</h3>
 
-- 🌱 I’m currently learning **SSR with Next.js**
+- 🌱 I’m currently learning anything and everything
 
 - 👯 I’m looking to collaborate on **anything fun that piques my interest!**
 
