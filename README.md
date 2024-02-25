@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **: message me about whatever!**
 
-- ⚡ Fun fact **The worlds oldest dog was almost 32 years old. https://www.bbc.com/news/world-europe-67194721**
+- ⚡ Fun fact <a href="https://www.bbc.com/news/world-europe-67194721" target="_blank">The worlds oldest dog was almost 32 years old.</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
